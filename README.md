@@ -1,9 +1,6 @@
 # My Malloc
 
-Name: Barghavi Gopinath & Upasana Patel
-NetID: bg586 & up62
-
-                         OUR MINI IMPLEMENTATION OF MALLOC() AND FREE():
+                         MY MINI IMPLEMENTATION OF MALLOC() AND FREE():
                          ----------------------------------------------
 
 mymalloc() is a function that allocates the user-requested size of bytes in the heap and returns a 
