@@ -1,7 +1,7 @@
 # My Malloc
 
-Name: Barghavi Gopinath & Upasana Patel 
-NetID: bg586 & up62
+Name: Barghavi Gopinath
+NetID: bg586
 
                          OUR MINI IMPLEMENTATION OF MALLOC() AND FREE():
                          ----------------------------------------------
