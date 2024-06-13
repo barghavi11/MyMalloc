@@ -1,5 +1,5 @@
-Name: Barghavi Gopinath 
-NetID: bg586 
+Name: Barghavi Gopinath & Upasana Patel
+NetID: bg586 & up62
 
                          OUR MINI IMPLEMENTATION OF MALLOC() AND FREE():
                          ----------------------------------------------
